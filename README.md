@@ -7,8 +7,8 @@ Included are my attempts to improve the performance of the portfolio and pizza s
 ##### Portfolio
 
 * Inline CSS
-* Async Google Analytics and CSS
-* Created 2nd CSS page to load the font
+* Async Google Analytics and JS
+* Created CSS resource to load the font
 
 ##### Pizza
 
