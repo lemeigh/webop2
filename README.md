@@ -9,6 +9,7 @@ Included are my attempts to improve the performance of the portfolio and pizza s
 * Inline CSS
 * Async Google Analytics and JS
 * Created CSS resource to load the font
+* Optimized JPEG images
 
 ##### Pizza
 
