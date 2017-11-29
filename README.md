@@ -24,4 +24,5 @@ To start this project I was pretty lost in the sauce. Thank goodness for the for
 * http://turtle-head.github.io/mobileport/
 * http://vascode.github.io/Website-Performance-Optimization/
 * https://github.com/jpurcell45/frontend-nanodegree-mobile-portfolio
+* https://github.com/pixiephreak/pixiephreak.github.io/blob/master/views/js/main.js
 
