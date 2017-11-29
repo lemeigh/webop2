@@ -1,6 +1,6 @@
 # Website Optimization 
 
-Included are my attempts to improve the performance of the portfolio and pizza sites. Just download the whole file and open index.html in your browser!
+Included are my attempts to improve the performance of the portfolio and pizza sites. To view - download all files. The portfolio is index.html and the pizzaria page is pizza.html.
 
 #### Changes I Made
 
