@@ -1,6 +1,6 @@
 # Website Optimization 
 
-Included are my attempts to improve the performance of the portfolio and pizza sites. To view - download all files. The portfolio is index.html and the pizzeria page is pizza.html located under the folder views.
+Included are my attempts to improve the performance of the portfolio and pizza sites. To view - download all files. The portfolio is index.html and the pizzeria page is pizza.html located under the folder views. The portfolio can also be viewed through this [link](https://lemeigh.github.io/webop2/).
 
 #### Changes I Made
 
