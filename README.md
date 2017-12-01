@@ -19,7 +19,7 @@ Included are my attempts to improve the performance of the portfolio and pizza s
 
 #### Credit Where Credit is Due
 
-To start this project I was pretty lost in the sauce. Thank goodness for the forum and specifically these folks - with their sites, I was able to check if I was headed in any direction at all:
+To start this project I was pretty lost in the sauce. Thank goodness for the forum (this [one](https://discussions.udacity.com/t/project-4-how-do-i-optimize-the-background-pizzas-for-loop/36302) in particular) and specifically these folks - with their sites, I was able to check if I was headed in any direction at all:
 
 * http://turtle-head.github.io/mobileport/
 * http://vascode.github.io/Website-Performance-Optimization/
