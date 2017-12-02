@@ -542,9 +542,9 @@ function updatePositions() {
 
     for (var i = 0, len = items.length, phase; i < len; i++) {
         var phase = phaseArray[i % 5];
-        items[i].style.left = items[i].basicLeft + 100 * phase + 'px';
+        //items[i].style.left = items[i].basicLeft + 100 * phase + 'px';
         //tried using transform instead but didn't seem to make a difference
-        //items[i].style.transform = "translateX(" + (100 * phase) + "px)";
+        items[i].style.transform = "translateX(" + (100 * phase) + "px)";
     }
 
     // User Timing API to the rescue again. Seriously, it's worth learning.
@@ -574,7 +574,7 @@ document.addEventListener('DOMContentLoaded', function() {
         elem.style.height = "100px";
         elem.style.width = "73.333px";
         elem.style.left = (i % cols) * s + "px";
-        elem.basicLeft = (i % cols) * s;
+        //elem.basicLeft = (i % cols) * s;
         elem.style.top = (Math.floor(i / cols) * s) + "px";
         //document.querySelector("#movingPizzas1").appendChild(elem);
         movingPizzas1.appendChild(elem);
